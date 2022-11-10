@@ -32,7 +32,7 @@ async def start_(client: Client, message: Message):
             InlineKeyboardButton( "🔎 كيف تستخدمني؟ قائمة الأوامر.",url=f"https://t.me/RDPDDP/228"),
             ],
             [
-            InlineKeyboardButton("DEV", url=f"https://t.me/MC_0p"),
+            InlineKeyboardButton("DEV", url=f"https://t.me/UUll_l"),
               ],
               [
                   InlineKeyboardButton(
@@ -53,7 +53,7 @@ async def start_(client: Client, message: Message):
 )
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7905bfc32ffadc86bd7f2.jpg",
+        photo=f"https://telegra.ph/file/604e8be096af73b1b37dd.jpg",
         caption=f"""المبرمج ايرور مبرمج جميع السورس لو حاابب تتواصل معاه بالاسفل ⬇️ """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -76,12 +76,12 @@ async def khalid(client: Client, message: Message):
 @Client.on_message(command(["مطور السورس" ,"مصطفي","المطور","المبرمجه لوكا"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/0b633e936adc7c1d723db.jpg",
+        photo=f"https://telegra.ph/file/8cc7d35b9c54d7819e02a.jpg",
         caption=f""" المطور جميع السورس لو حاابب تتواصل معاه بالاسفل ⬇️ """,
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("المطور", url=f"https://t.me/K_1_1_0"),
+                InlineKeyboardButton("المطور", url=f"https://t.me/UUll_l"),
            ],
             [ 
                 InlineKeyboardButton(
@@ -115,7 +115,7 @@ async def help(client: Client, message: Message):
                 InlineKeyboardButton("لطلب بوت", url=f"https://t.me/K_1_1_0"),
             ],
             [
-            InlineKeyboardButton("المطور", url=f"https://t.me/K_1_1_0"),
+            InlineKeyboardButton("المطور", url=f"https://t.me/UUll_l"),
             ],
             [
                 InlineKeyboardButton(
